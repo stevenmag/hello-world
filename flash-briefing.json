@@ -1,9 +1,9 @@
 [
   {"uid": "urn:uuid:1020ebec-0ca6-11e8-ba89-0ed5f89f718b",
-    "updateDate": "2018-03-01T16:50:51.0Z",
+    "updateDate": "2018-03-02T15:54:51.0Z",
     "titleText": "The Wolverine Attack",
     "mainText": "",
-    "streamUrl": "https://s3.us-east-2.amazonaws.com/the-wolverine-attack/20180301-163810.mp3",
+    "streamUrl": "https://s3.us-east-2.amazonaws.com/the-wolverine-attack/20180302-154648.mp3",
     "redirectionUrl": "https://twitter.com/wolverineattack"
   }
 ]
